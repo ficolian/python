@@ -1,0 +1,4 @@
+LASTNAME            WORK HOURS     TOTAL
+ Smith               40            600            
+ Schultz             25            450            
+ Dolan               15            300            
